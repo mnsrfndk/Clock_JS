@@ -1,0 +1,25 @@
+* {
+    font-family: monospace;
+}
+
+body {
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-content {
+    border: red solid;
+    width: 60%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#clock {
+    color: rgb(0, 21, 255);
+    font-size: 4rem;
+}
